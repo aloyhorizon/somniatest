@@ -1,0 +1,2 @@
+# somniatest
+for somnia testnet
